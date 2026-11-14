@@ -1,0 +1,6 @@
+node_modules
+dist
+*.local
+license-keys/
+android/
+ios/
